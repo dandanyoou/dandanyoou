@@ -1,5 +1,6 @@
-##  👋
+##  ソコマデダ
 
 
 
-<img src="https://github.com/user-attachments/assets/bdec629f-3a59-44df-b7b7-adba60d6ee6c" width="100%" />
+<img src="https://github.com/user-attachments/assets/d062cdff-a9de-4b6b-9b84-ca5c29ce797f" width="100%" />
+
